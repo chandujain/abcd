@@ -1,4 +1,4 @@
-#!/bin/bash/bash
+#!/bin/bash/sh
 read -p "enter your number: " n 
 
 for a in `seq 10`; do
